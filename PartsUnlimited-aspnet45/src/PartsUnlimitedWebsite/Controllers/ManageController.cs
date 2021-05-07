@@ -10,7 +10,7 @@ using PartsUnlimited.Models;
 namespace PartsUnlimited.Controllers
 {
     [Authorize]
-    //Adeola1
+    //Adeola12
     public class ManageController : Controller
     {
         private SignInManager<ApplicationUser, string> SignInManager
